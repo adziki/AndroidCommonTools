@@ -1,0 +1,7 @@
+<resources>
+    <string name="font_path_prefix">fonts/</string>
+    <string name="myh_default_font">helvetica-new.ttf</string>
+    <string name="font_helvetica_new">helvetica-new.ttf</string>
+
+    <string name="user_agent_app_name">app_name</string>
+</resources>
